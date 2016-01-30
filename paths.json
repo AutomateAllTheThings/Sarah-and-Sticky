@@ -1,0 +1,7 @@
+{
+	"source": {
+		"index": "./source/index.html",
+		"lib": "./source/lib/**/*"
+	},
+	"build": "./build/"
+}
