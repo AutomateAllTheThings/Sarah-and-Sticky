@@ -1,7 +1,12 @@
 {
 	"source": {
+		"assets": "./assets/**/*",
 		"index": "./source/index.html",
-		"lib": "./source/lib/**/*"
+		"lib": "./source/lib/**/*",
+		"base": "./source/**/*"
 	},
-	"build": "./build/"
+	"build": {
+		"base": "./build/",
+		"assets": "./build/assets/"
+	}
 }

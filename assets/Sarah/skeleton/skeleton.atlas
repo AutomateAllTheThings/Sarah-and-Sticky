@@ -1,0 +1,89 @@
+
+skeleton.png
+size: 1022,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 422
+  size: 572, 596
+  orig: 572, 596
+  offset: 0, 0
+  index: -1
+Hips
+  rotate: false
+  xy: 576, 582
+  size: 444, 436
+  orig: 444, 436
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 576, 444
+  size: 136, 284
+  orig: 136, 284
+  offset: 0, 0
+  index: -1
+Tummy
+  rotate: true
+  xy: 2, 36
+  size: 384, 580
+  orig: 384, 580
+  offset: 0, 0
+  index: -1
+Upper-Close-Arm
+  rotate: true
+  xy: 584, 2
+  size: 440, 376
+  orig: 440, 376
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 946,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 2, 308
+  size: 564, 564
+  orig: 564, 564
+  offset: 0, 0
+  index: -1
+Close-Hand
+  rotate: true
+  xy: 480, 20
+  size: 184, 224
+  orig: 184, 224
+  offset: 0, 0
+  index: -1
+Far-Hand
+  rotate: true
+  xy: 706, 28
+  size: 176, 220
+  orig: 176, 220
+  offset: 0, 0
+  index: -1
+Lower-Close-Arm
+  rotate: true
+  xy: 568, 480
+  size: 392, 276
+  orig: 392, 276
+  offset: 0, 0
+  index: -1
+Lower-Far-Arm
+  rotate: false
+  xy: 568, 206
+  size: 376, 272
+  orig: 376, 272
+  offset: 0, 0
+  index: -1
+Upper-Far-Arm
+  rotate: false
+  xy: 2, 2
+  size: 476, 304
+  orig: 476, 304
+  offset: 0, 0
+  index: -1
