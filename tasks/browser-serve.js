@@ -8,7 +8,7 @@ gulp.task("browser-update", ["build-browser"], () => {
 });
 
 // Static server
-gulp.task("browser-serve", () => {
+gulp.task("browser-serve", ["build-browser"], () => {
     browserSync.init({
         server: {
             baseDir: paths.build.base,

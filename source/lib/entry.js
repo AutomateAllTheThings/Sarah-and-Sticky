@@ -3,4 +3,5 @@ import TestGame from "./testGame.js";
 
 window.onload = () => {
 	const testGame = new TestGame();
+	testGame.start();
 };
